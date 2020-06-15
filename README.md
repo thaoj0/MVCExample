@@ -2,6 +2,7 @@
 A Basic Java MVC Example
 <br>
 Compile.bat - A bat file to compile all necessary files.
+<br>
 Run.bat - A bat file to run the program.
 </br>
 <br>
